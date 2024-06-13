@@ -2,6 +2,9 @@
 
 ## Items
 
-| ID |      Name      |
-|----|----------------|
-| 01 | Copper Nugget  |
+|ID|Name|Registry Name|
+|-|-|-|
+|01|Copper Nugget|copper_nugget|
+|02|Steel Nuggent|steel_nugget|
+|03|Steel Ingot|steel_ingot|
+
