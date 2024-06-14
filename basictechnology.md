@@ -18,3 +18,12 @@
 |12|Steel Plate|steel_plate|
 |13|Gold Plate|gold_plate|
 |14|Netherite Plate|netherite_plate|
+|15|Steel Sword|steel_sword|
+|16|Steel Pickaxe|steel_pickaxe|
+|17|Steel Axe|steel_axe|
+|18|Steel Hoe|steel_hoe|
+|19|Steel Shovel|steel_shovel|
+|20|Steel Helmet|steel_helmet|
+|21|Steel Chestplate|steel_chestplate|
+|22|Steel Leggings|steel_leggings|
+|23|Steel Boots|steel_boots|
