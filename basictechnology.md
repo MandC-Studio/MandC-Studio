@@ -6,7 +6,7 @@
 |-|-|-|
 |01|Copper Nugget|copper_nugget|
 |02|Steel Nuggent|steel_nugget|
-|03|Netherite Nuggent|netherite_nuggent|
+|03|Netherite Nuggent|netherite_nugget|
 |04|Steel Ingot|steel_ingot|
 |05|Copper Stick|copper_stick|
 |06|Iron Stick|iron_stick|
