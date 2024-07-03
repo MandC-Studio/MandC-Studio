@@ -8,4 +8,9 @@ We are trying to create the best mods.
 
 ## First Mod "Basic Technology"
 
-You can see details in [this file](basictechnology.md)
+This mod basically has a complete gameplay. Also, it'll be a support library for other Mods.
+
+But please note that there are only two people maintaining this studio, so when we update this mod, 
+other mods will not be updated (but support will still be provided and bugs will be fixed).
+
+You can see what we add in [this markdown file](basictechnology.md).
