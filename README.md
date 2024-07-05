@@ -1,5 +1,9 @@
 # MandC Studio
 
+Path: Home
+
+English | [简体中文](zh-cn/README.md)
+
 ## What is MandC Studio?
 
 **MandC Studio** is a Minecraft mod program studio.
